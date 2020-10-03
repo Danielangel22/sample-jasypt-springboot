@@ -1,4 +1,5 @@
 # Spring Boot Jasypt Demo
-This repository is intended for showing how to encrypt sensitive variable, such as password in properties file.
+Este proyecto esta hecho para demostrar como encriptar variables sensibles como el archivo de propiedades.
 
-More detail about how to use this repository, please visit http://www.ru-rocker.com/2017/01/13/spring-boot-encrypting-sensitive-variable-properties-file/
+Adjunto link de google drive:
+https://drive.google.com/file/d/1fb4MvFlEPgGCk5XRIKbQzmxseWUKVGKH/view?usp=sharing

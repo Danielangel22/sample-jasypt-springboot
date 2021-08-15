@@ -10,6 +10,6 @@ public class JasyptApplication {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(JasyptApplication.class, args);
 		MyBean bean = context.getBean(MyBean.class);
-		bean.printVariable();
+		bean.printEnv();
 	}
 }
